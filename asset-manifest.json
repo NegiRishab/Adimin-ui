@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Adimin-ui/static/css/main.a4a3a604.css",
+    "main.js": "/Adimin-ui/static/js/main.0ad0fed0.js",
+    "index.html": "/Adimin-ui/index.html",
+    "main.a4a3a604.css.map": "/Adimin-ui/static/css/main.a4a3a604.css.map",
+    "main.0ad0fed0.js.map": "/Adimin-ui/static/js/main.0ad0fed0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a3a604.css",
+    "static/js/main.0ad0fed0.js"
+  ]
+}
