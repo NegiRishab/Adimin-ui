@@ -1,0 +1,8 @@
+.edit{
+    display: flex;
+    flex-wrap: wrap;
+}
+.edit div{
+    margin-left: 20px;
+}
+

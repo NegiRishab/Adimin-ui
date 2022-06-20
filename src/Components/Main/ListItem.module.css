@@ -1,0 +1,36 @@
+.row{
+    padding: 10px 0;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* background-color: white; */
+}
+.rowwhite{
+    padding: 10px 0;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: white;
+}
+.column{
+    justify-content: space-around;
+    width: 100%;
+    display: flex;
+    /* background-color: white; */
+}
+.column p{
+    display: flex;
+    justify-content: center;
+    width: 10%;
+    font-size: 18px;
+    font-weight: bold;
+    flex-wrap: wrap;
+}
